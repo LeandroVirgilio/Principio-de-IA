@@ -26,9 +26,6 @@ Gosto de muito de técnoliga e suas aplicações
 
 ## 🛠 Habilidades desenvolvidas neste projeto
 - **INTRODUÇÃO AO APRENDIZAGEM DE MÁQUINA;** 
-- **TRABALHANDO COM VISÃO COMPUTACIONAL;**
-- **PROCESSAMENTO DE LINGUAGEM NATURAL;**
-- **INTELIGENCIA DE DOCUMENTOS E MINERAÇÃO DE CONHECIMENTOS;**
-- **TRABALHANDO COM IA GENERATIVA**; 
+
 
 ![Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY9NBWa6c3n0q90yNzdZqOQ8izpl4ndCG4Ix5X298fmA&s)
