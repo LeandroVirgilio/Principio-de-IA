@@ -31,4 +31,4 @@ Gosto de muito de técnoliga e suas aplicações
 - **INTELIGENCIA DE DOCUMENTOS E MINERAÇÃO DE CONHECIMENTOS;**
 - **TRABALHANDO COM IA GENERATIVA**; 
 
-![Logo](https://www.pngall.com/wp-content/uploads/15/Azure-Logo-PNG-File.png)
+![Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY9NBWa6c3n0q90yNzdZqOQ8izpl4ndCG4Ix5X298fmA&s)
