@@ -31,4 +31,4 @@ Gosto de muito de técnoliga e suas aplicações
 - **INTELIGENCIA DE DOCUMENTOS E MINERAÇÃO DE CONHECIMENTOS;**
 - **TRABALHANDO COM IA GENERATIVA**; 
 
-![Logo](D:\Curso DIO\Curso Azure Dio\Projetos\Projeto 1\Imagens\Azure-Logo)
+![Logo](https://www.pngall.com/wp-content/uploads/15/Azure-Logo-PNG-File.png)
